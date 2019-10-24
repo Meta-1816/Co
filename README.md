@@ -1,6 +1,7 @@
 # Meta Company
-Trust Me
 Modern Ideas For Future
+
+`Meta` Trust Me
 
 # CEO
 Mahdi Zamanzadeh
